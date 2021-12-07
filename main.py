@@ -30,5 +30,5 @@ while True:
   else:
     print("I'm sorry, but your guess was too high... Please, try a number lower than", guess)
 
-   # increment the value of a chance by 1 at every try
+   # increment the value of a chance by 1 for every try
   chances += 1
