@@ -2,11 +2,11 @@ import random
 
 print("Number guessing game")
 
-number = random.randint(1, 9)
+number = random.randint(1, 20)
 
 chances = 0
 
-print("Guess a number (between 1 and 9):")
+print("Guess a number (between 1 and 20):")
 
 while True:
 
